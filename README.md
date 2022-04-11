@@ -13,8 +13,18 @@
 <div align="center">
  <h1 text-align = "center">🛠️ Desculpa, perfil ainda em construção... 🛠️</h1>
 </div>
-
 <!--
+<div align="left">
+ <p text-align = "left">
+   📚 Estou atualmente atuando como estudante profissional;
+   🔭 Aprendendo html, CSS e JavaScript;
+   🐶 Amante dos animais 🐱;
+   🥊 Praticante de artes marciais e corrida;
+   🎮 Gamer, com preferência por jogos de sobrevivência.
+ </p>
+</div>
+
+
 **PetrusJoao/PetrusJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
