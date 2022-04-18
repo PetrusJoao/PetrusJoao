@@ -10,10 +10,6 @@
 </div>
   
 <hr>
-  
-![Snake animation](https://github.com/PetrusJoao/PetrusJoao/blob/output/github-contribution-grid-snake.svg)
-  
-##
 
 <div align="left">
  <p text-align = "left">
