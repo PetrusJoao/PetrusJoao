@@ -14,7 +14,7 @@
 <div align="left">
  <p text-align = "left">
    📚 Estou atualmente atuando como estudante profissional;<br>
-   🔭 Aprendendo html, CSS e JavaScript;<br>
+   🔭 Aprendendo React e Redux;<br>
    🐶 Amante dos animais 🐱;<br>
    🥊 Praticante de artes marciais e corrida;<br>
    🎮 Gamer, com preferência por jogos de sobrevivência.<br>
