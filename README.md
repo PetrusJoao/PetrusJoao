@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 text-align = "center">Hi there! 👋</h1>
+  <h1 text-align = "center">Olá! 👋</h1>
   
   <h2 text-align = "center">Meu nome é João Pedro<br>e aqui algumas informações úteis (ou não 😅):</h2>
 
