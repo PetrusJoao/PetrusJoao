@@ -2,7 +2,7 @@
 
   <h1 text-align = "center">Olá! 👋</h1>
   
-  <h2 text-align = "center">Meu nome é João Pedro<br>e aqui algumas informações úteis (ou não 😅):</h2>
+  <h2 text-align = "center">Meu nome é João Pedro<br>e aqui algumas informações úteis (e outras nem tanto 😅):</h2>
 
   <a href="https://github.com/PetrusJoao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetrusJoao&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
@@ -13,11 +13,12 @@
 
 <div align="left">
  <p text-align = "left">
-   📚 Estou atualmente atuando como estudante profissional;<br>
-   🔭 Aprendendo React e Redux;<br>
+   📚 Estou atualmente atuando como desenvolvedor front-end;<br>
+   🔭 Concluindo formação em back-end;<br>
    🐶 Amante dos animais 🐱;<br>
    🥊 Praticante de artes marciais e corrida;<br>
-   🎮 Gamer, com preferência por jogos de sobrevivência.<br>
+   🎮 Gamer;<br>
+   🛐 Católico apostólico romano;<br>
  </p>
 </div>
   
