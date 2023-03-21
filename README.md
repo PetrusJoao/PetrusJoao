@@ -13,7 +13,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="[https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true](https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif](https://media0.giphy.com/media/dxMlpNlRb4IsVazoDX/giphy.gif?cid=ecf05e47vavvfriiuy2ec74vwg8dpf976aam6qkgqas6qhef&rid=giphy.gif&ct=g)](https://media.giphy.com/media/dxMlpNlRb4IsVazoDX/giphy.gif))" width="350px" height="350px"/>
+<img align="right" alt="GIF" src="https://github.com/PetrusJoao/PetrusJoao/blob/main/giphy.gif" width="350px" height="350px"/>
 </div>
 
 ### Esse sou eu:
