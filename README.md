@@ -2,7 +2,7 @@
 
   <h1 text-align = "center">Olá! 👋 Meu nome é João Pedro<br></h1>
   
-  <h2 text-align = "center">e aqui vão algumas informações úteis (e outras nem tanto 😅):</h2>
+  <h2 text-align = "center">e aqui você encontrará algumas informações úteis (e outras nem tanto 😅):</h2>
 
   <a href="https://github.com/PetrusJoao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetrusJoao&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
