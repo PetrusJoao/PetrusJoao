@@ -13,7 +13,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/PetrusJoao/PetrusJoao/blob/main/giphy.gif" width="350px" height="350px"/>
+<img align="right" alt="GIF" src="https://github.com/PetrusJoao/PetrusJoao/blob/main/giphy.gif" width="250px" height="250px"/>
 </div>
 
 ### Esse sou eu:
