@@ -20,28 +20,30 @@
 
 <div align="justify">
  <p text-align = "left">
-  <ul>
-  📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
-  </ul>
-  <ul>
-  🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
-  </ul>
-  <ul>
-  🐶 Amante dos animais 🐱;<br>
-  </ul>
-  <ul>
-  🥊 Praticante de artes marciais e corrida:<br>
-      <li>atualmente grau vermelho e instrutor de muaythai;</li>
-  </ul>
-  <ul>
-  🎮 Gamer:<br>
-      <li>com preferência a jogos de sobrevivência;</li>
-  </ul>
-  <ul>
-  🛐 Católico apostólico romano:<br>
-      <li>catequista;</li>
-      <li>membro do Grupo de Espiritualidade e Ação (GEA);</li>
-  </ul>
+   <ul>
+    <ul>
+    📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
+    </ul>
+    <ul>
+    🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
+    </ul>
+    <ul>
+    🐶 Amante dos animais 🐱;<br>
+    </ul>
+    <ul>
+    🥊 Praticante de artes marciais e corrida:<br>
+        <li>atualmente grau vermelho e instrutor de muaythai;</li>
+    </ul>
+    <ul>
+    🎮 Gamer:<br>
+        <li>com preferência a jogos de sobrevivência;</li>
+    </ul>
+    <ul>
+    🛐 Católico apostólico romano:<br>
+        <li>catequista;</li>
+        <li>membro do Grupo de Espiritualidade e Ação (GEA);</li>
+    </ul>
+   </ul>
  </p>
 </div>
 </div>
