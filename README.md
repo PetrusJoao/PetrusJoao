@@ -20,12 +20,22 @@
 
 <div align="justify">
  <p text-align = "left">
-   📚 Estou atualmente atuando como desenvolvedor front-end;<br>
-   🔭 Concluindo formação em back-end;<br>
-   🐶 Amante dos animais 🐱;<br>
-   🥊 Praticante de artes marciais e corrida;<br>
-   🎮 Gamer;<br>
-   🛐 Católico apostólico romano;<br>
+  📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
+  🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
+  🐶 Amante dos animais 🐱;<br>
+  <ul>
+    🥊 Praticante de artes marciais e corrida:<br>
+      <li>atualmente grau vermelho e instrutor de muaythai;</li>
+  </ul>
+  <ul>
+    🎮 Gamer:<br>
+      <li>com preferência a jogos de sobrevivência;</li>
+  </ul>
+  <ul>
+  🛐 Católico apostólico romano:<br>
+      <li>catequista;</li>
+      <li>membro do Grupo de Espiritualidade e Ação (GEA);</li>
+  </ul>
  </p>
 </div>
 </div>
