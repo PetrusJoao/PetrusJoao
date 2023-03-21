@@ -24,11 +24,11 @@
   🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
   🐶 Amante dos animais 🐱;<br>
   <ul>
-    🥊 Praticante de artes marciais e corrida:<br>
+  🥊 Praticante de artes marciais e corrida:<br>
       <li>atualmente grau vermelho e instrutor de muaythai;</li>
   </ul>
   <ul>
-    🎮 Gamer:<br>
+  🎮 Gamer:<br>
       <li>com preferência a jogos de sobrevivência;</li>
   </ul>
   <ul>
