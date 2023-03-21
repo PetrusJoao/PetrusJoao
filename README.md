@@ -11,7 +11,14 @@
   
 <hr>
 
-<div align="left">
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
+</div>
+
+### <img height="20" src="[https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif](https://media0.giphy.com/media/dxMlpNlRb4IsVazoDX/giphy.gif?cid=ecf05e47vavvfriiuy2ec74vwg8dpf976aam6qkgqas6qhef&rid=giphy.gif&ct=g)"/>Esse sou eu:
+
+<div align="justify">
  <p text-align = "left">
    📚 Estou atualmente atuando como desenvolvedor front-end;<br>
    🔭 Concluindo formação em back-end;<br>
@@ -20,6 +27,7 @@
    🎮 Gamer;<br>
    🛐 Católico apostólico romano;<br>
  </p>
+</div>
 </div>
   
  ![Snake animation](https://github.com/PetrusJoao/PetrusJoao/blob/output/github-contribution-grid-snake.svg)
