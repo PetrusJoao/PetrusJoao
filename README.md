@@ -20,9 +20,15 @@
 
 <div align="justify">
  <p text-align = "left">
+  <ul>
   📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
+  </ul>
+  <ul>
   🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
+  </ul>
+  <ul>
   🐶 Amante dos animais 🐱;<br>
+  </ul>
   <ul>
   🥊 Praticante de artes marciais e corrida:<br>
       <li>atualmente grau vermelho e instrutor de muaythai;</li>
