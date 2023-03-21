@@ -21,28 +21,32 @@
 <div align="justify">
  <p text-align = "left">
    <ul>
-    <ul>
+    <li>
     📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
-    </ul>
-    <ul>
+    </li>
+    <li>
     🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
-    </ul>
-    <ul>
+    </li>
+    <li>
     🐶 Amante dos animais 🐱;<br>
-    </ul>
-    <ul>
+    </li>
+    <li>
     🥊 Praticante de artes marciais e corrida:<br>
         <li>atualmente grau vermelho e instrutor de muaythai;</li>
-    </ul>
-    <ul>
+    </li>
+    <li>
     🎮 Gamer:<br>
+      <ul>
         <li>com preferência a jogos de sobrevivência;</li>
-    </ul>
-    <ul>
+      </ul>
+    </li>
+    <li>
     🛐 Católico apostólico romano:<br>
+      <ul>
         <li>catequista;</li>
         <li>membro do Grupo de Espiritualidade e Ação (GEA);</li>
-    </ul>
+      </ul>
+    </li>
    </ul>
  </p>
 </div>
