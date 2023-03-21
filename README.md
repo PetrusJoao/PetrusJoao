@@ -32,7 +32,9 @@
     </li>
     <li>
     🥊 Praticante de artes marciais e corrida:<br>
+      <ul>
         <li>atualmente grau vermelho e instrutor de muaythai;</li>
+      </ul>
     </li>
     <li>
     🎮 Gamer:<br>
