@@ -49,5 +49,3 @@
  </p>
 </div>
 </div>
-  
- ![Snake animation](https://github.com/PetrusJoao/PetrusJoao/blob/output/github-contribution-grid-snake.svg)
