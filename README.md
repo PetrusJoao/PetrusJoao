@@ -3,9 +3,6 @@
   <h1 text-align = "center">Olá! 👋 Meu nome é João Pedro<br></h1>
   
   <h2 text-align = "center">e aqui você encontrará algumas informações úteis (e outras nem tanto 😅):</h2>
-
-  <a href="https://github.com/PetrusJoao">
-
 </div>
 
 <hr>
