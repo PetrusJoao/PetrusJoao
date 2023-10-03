@@ -21,7 +21,7 @@
     📚 Estou atualmente pleiteando posição de desenvolvedor web full-stack jr;<br>
     </li>
     <li>
-    🔭 Concluindo formação de desenvolvedor web full-stack em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
+    🔭 Desenvolvedor web full-stack, formado em <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br>
     </li>
     <li>
     🐶 Amante dos animais 🐱;<br>
